@@ -23,7 +23,7 @@ ActiveRecord::Schema.define(version: 20191212003209) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
-
+20171217164939_add_columns_to_rides.rb
   create_table "rides", force: :cascade do |t|
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
