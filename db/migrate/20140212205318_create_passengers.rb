@@ -6,4 +6,4 @@ class CreatePassengers < ActiveRecord::Migration
   end
 end
 
-20191212003209
+20191212003209_create_passenger_taxis.rb
