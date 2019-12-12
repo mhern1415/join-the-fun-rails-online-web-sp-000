@@ -5,3 +5,5 @@ class CreatePassengers < ActiveRecord::Migration
     end
   end
 end
+
+20191212003209
